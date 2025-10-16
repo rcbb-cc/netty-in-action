@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>cc.rcbb.netty.in.action</groupId>
-    <artifactId>chapter02</artifactId>
+    <artifactId>chapter04</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

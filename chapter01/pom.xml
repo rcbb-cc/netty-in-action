@@ -9,6 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
+    <groupId>cc.rcbb.netty.in.action</groupId>
     <artifactId>chapter01</artifactId>
 
     <properties>
