@@ -13,6 +13,7 @@
         <module>chapter02</module>
         <module>chapter04</module>
         <module>message-pack-demo</module>
+        <module>protobuf-demo</module>
         <module>time-server-demo</module>
     </modules>
 

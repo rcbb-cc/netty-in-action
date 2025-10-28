@@ -1,0 +1,11 @@
+syntax = "proto2";
+
+package cc.rcbb.netty.in.action.protobuf.demo;
+option java_package = "cc.rcbb.netty.in.action.protobuf.demo";
+option java_outer_classname = "SubscribeRespProto";
+
+message SubscribeResp {
+  required int32 subReqID = 1;
+  required int32 respCode = 2;
+  required string desc = 3;
+}
