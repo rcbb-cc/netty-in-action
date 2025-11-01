@@ -12,6 +12,7 @@
         <module>chapter01</module>
         <module>chapter02</module>
         <module>chapter04</module>
+        <module>http-file-server-demo</module>
         <module>marshalling-demo</module>
         <module>message-pack-demo</module>
         <module>protobuf-demo</module>
