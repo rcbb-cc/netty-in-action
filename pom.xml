@@ -17,6 +17,7 @@
         <module>message-pack-demo</module>
         <module>protobuf-demo</module>
         <module>time-server-demo</module>
+        <module>websocket-server-demo</module>
     </modules>
 
     <properties>
