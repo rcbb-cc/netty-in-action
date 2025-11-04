@@ -15,6 +15,7 @@
         <module>http-file-server-demo</module>
         <module>marshalling-demo</module>
         <module>message-pack-demo</module>
+        <module>private-protocol-demo</module>
         <module>protobuf-demo</module>
         <module>time-server-demo</module>
         <module>websocket-server-demo</module>
